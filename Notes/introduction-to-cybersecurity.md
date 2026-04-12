@@ -13,5 +13,5 @@ Cybersecurity is the practice of protecting systems,networkds, and data from dig
 -Hackers exploit weakness
 -Learning this igves power
 
-## Mmy Thoughts
+## My Thoughts
 This is my first step to cybersecurity. I'm excited to learn and grow
