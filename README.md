@@ -25,13 +25,20 @@ Cybersecurity concepts explained in my own words
 -Buro suite (coming soon)
 
 #Progress
--[x] GitHub Setup
--[x] Kali Linux Installataion
--[] First TryHackme room
--[] Network Scanning Prooject
+-[x] First TryHackme room
+-[x] Network Scanning Project
+-[x] python
+
 
 ## Goal
 To become a skilled cybersecurity profesionally and ethical hacker.
+
+PROCEDURES FOR DOCUMENTATIONS.
+📚 Notes = what you learned.
+🧪 Labs = what you practiced.
+📝 Writeups = CTFs, Hack The Box, TryHackMe room reports.
+🛠️ Tools = cheat sheets and tool usage.
+
 
 -----
 Follow my Journey as i grow in Cybersecurity
