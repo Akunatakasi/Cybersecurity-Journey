@@ -1,0 +1,1 @@
+Cheats for easy usage 
