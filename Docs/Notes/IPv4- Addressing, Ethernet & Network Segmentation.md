@@ -1,5 +1,4 @@
 # 📅 Day 04 - IPv4 Addressing, Ethernet & Network Segmentation
-
 **Problem**
 Continued networking fundamentals from TCP/IP and the OSI model, focusing on how data is transmitted, encapsulated, addressed, and delivered across networks.
 
